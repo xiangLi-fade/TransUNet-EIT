@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the original TransUNet paper."
+title: "TransUNet-EIT: Multimodal Electrical Impedance Tomography Reconstruction"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Xiang"
+version: 0.1.0
+date-released: 2026-08-13
+license: Apache-2.0
+repository-code: "https://github.com/xiangLi-fade/TransUNet-EIT"
