@@ -123,7 +123,7 @@ scripts/generate_demo_data.py 演示数据生成器
 }
 ```
 
-发布仓库前，请将 `CITATION.cff` 中的作者姓名和 GitHub 地址替换为真实信息。
+
 
 ## 许可证
 
